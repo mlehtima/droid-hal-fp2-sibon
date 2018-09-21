@@ -13,6 +13,8 @@
 #define DROID_AUDIO_HAL_ATOI_FIX 1\
 %{nil}
 
+%define makefstab_skip_entries /dev/cpuctl
+
 %define straggler_files \
 /init.class_main.sh\
 /init.mdm.sh\
