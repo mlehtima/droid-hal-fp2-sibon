@@ -2,11 +2,8 @@
 %define device FP2
 %define vendor fairphone_devices
 
-%define rpm_device fp2-sibon    
+%define rpm_device fp2-sibon
 %define rpm_vendor fairphone
-
-%define device_pretty Fairphone 2
-%define vendor_pretty Fairphone
 
 %define installable_zip 1
 %define enable_kernel_update 1
